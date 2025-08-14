@@ -1,2 +1,2 @@
-print("I love git")
+print("I love python")
 print("this is ullas ")
